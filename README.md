@@ -17,7 +17,7 @@ Uma vez que o programa está em execução, o usuário é solicitado a inserir o
 
 # Créditos:
 
-Este trabalho utiliza o conjunto de dados do Pacote Mananciais, disponibilizado por Beatriz Miliz via Zenodo <a href="https://doi.org/10.5281/zenodo.4319745"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4319745.svg" alt="DOI"></a>. Agradecimentos especiais a Beatriz Milz e a Sabesp por disponibilizarem esses dados.
+Este trabalho utiliza o conjunto de dados do Pacote Mananciais, disponibilizado por Beatriz Milz. (2020). beatrizmilz/mananciais: Mananciais 1.0 (1.0). Zenodo. https://doi.org/10.5281/zenodo.4319745. Agradecimentos especiais a [Beatriz Milz](https://github.com/beatrizmilz) e a Sabesp por disponibilizarem esses dados.
 
 
 Esse programa foi criado por [Gabriel Medina da Assunção](https://github.com/gabs4841)
