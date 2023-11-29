@@ -3,7 +3,7 @@
 EM CONSTRUÇÃO
 
 # Utilização
-Uma vez que o programa está em execução, o usuário é solicitado a inserir o número da operação de matriz (2x2 - 4x4) ou se usará a automatica (2x2 - 9x9), após selecionar a operação basta informar o números da matriz que a mesma será gerada e calculada e o gráfico plotado.
+EM CONSTRUÇÃO
 
 # Imagens:
 ### Grafico Barras:
