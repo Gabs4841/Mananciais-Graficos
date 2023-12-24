@@ -1,6 +1,6 @@
-# Mananciais
+# Mananciais - Graficos 
 
-EM CONSTRUÇÃO
+O programa Mananciais - Gráficos foi desenvolvido com o objetivo de analisar e visualizar informações acerca de mananciais de abastecimento público na Região Metropolitana de São Paulo. Sua funcionalidade abrange desde a preparação da base de dados até a geração de gráficos e tabelas relevantes. O principal enfoque da ferramenta reside na obtenção de insights visuais e analíticos, permitindo uma compreensão mais aprofundada e atualizada dessas informações.
 
 # Utilização
 O programa possui duas partes principais: preparação do conjunto de dados e a geração de gráficos e tabelas. Para usar o programa, primeiro, faça o download do arquivo .ipynb. Em seguida, execute a primeira parte do código em um compilador que foi "Executado como Administrador" (caso contrario ele não conseguirá baixar os arquivos) e selecione o servidor "Brazil (SP 2)" para que a base atualizada seja baixada e modificada para manter apenas dados de 01/01/2013 em diante.
