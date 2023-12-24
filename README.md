@@ -3,7 +3,7 @@
 EM CONSTRUÇÃO
 
 # Utilização
-O programa possui duas partes principais: preparação do conjunto de dados e a geração de gráficos e tabelas. Para usar o programa, primeiro, faça o download do arquivo .ipynb. Em seguida, execute a primeira parte do código e selecione o servidor "SP 2" para que a base atualizada seja baixada e modificada para manter apenas dados de 01/01/2013 em diante.
+O programa possui duas partes principais: preparação do conjunto de dados e a geração de gráficos e tabelas. Para usar o programa, primeiro, faça o download do arquivo .ipynb. Em seguida, execute a primeira parte do código em um compilador que foi "Executado como Administrador" (caso contrario ele não conseguirá baixar os arquivos) e selecione o servidor "Brazil (SP 2)" para que a base atualizada seja baixada e modificada para manter apenas dados de 01/01/2013 em diante.
 
 Após a criação do arquivo "mananciaisfiltrado.csv", execute as outras partes do código para a geração dos gráficos e tabelas atualizados.
 
