@@ -8,18 +8,26 @@ O programa possui duas partes principais: preparação do conjunto de dados e a 
 Após a criação do arquivo "mananciaisfiltrado.csv", execute as outras partes do código para a geração dos gráficos e tabelas atualizados.
 
 # Imagens:
+### Gráfico Linhas:
+![Linhas](https://github.com/gabs4841/Mananciais-Graficos/assets/74026100/16ded7ef-e55f-4c1f-b054-73d952250e13)
+
 ### Gráfico Barras:
-![Barras](https://github.com/gabs4841/Mananciais/assets/74026100/61cd3748-bbf8-46e8-9e4f-11522a9b8b39)
+![Barras](https://github.com/gabs4841/Mananciais-Graficos/assets/74026100/250a34cd-3024-45d4-8ec5-d722631294d6)
+
 ### Gráfico Boxspot:
-![Boxspot](https://github.com/gabs4841/Mananciais/assets/74026100/0fd398cd-200f-4dd3-a735-6c3fa55cedf0)
+![Boxplot](https://github.com/gabs4841/Mananciais-Graficos/assets/74026100/15aa6e7a-5f32-48a1-b811-f9fc2a34dce5)
+
 ### Gráfico Dispersão:
-![Dispersão](https://github.com/gabs4841/Mananciais/assets/74026100/cbe9b03e-14ba-4492-896b-b2950df37e45)
+![Dispersão](https://github.com/gabs4841/Mananciais-Graficos/assets/74026100/a05912c8-7ad2-4a69-ab30-bef42bdf920a)
+
 ### Gráfico Histograma:
-![Histograma](https://github.com/gabs4841/Mananciais/assets/74026100/5654a9b9-8e01-4382-a506-1d83402abd34)
+![Histograma](https://github.com/gabs4841/Mananciais-Graficos/assets/74026100/2c51b874-fb4e-47b0-9c3d-d53a003d151d)
+
 ### Tabela 1
-![tabela1](https://github.com/gabs4841/Mananciais/assets/74026100/ba2c063e-f532-4be8-84ff-5617042ebae0)
+![tabela1](https://github.com/gabs4841/Mananciais-Graficos/assets/74026100/a72df27d-ea0f-4fe0-918c-6f1693cdb156)
+
 ### Tabela 2
-![tabela2](https://github.com/gabs4841/Mananciais/assets/74026100/85b821a5-e08e-4a71-8988-aea687917663)
+![tabela2](https://github.com/gabs4841/Mananciais-Graficos/assets/74026100/09ecf13b-c874-484f-9ff1-06da82a4ac28)
 
 # Créditos:
 
