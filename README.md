@@ -8,7 +8,7 @@ O programa possui duas partes principais: preparação do conjunto de dados e a 
 Após a criação do arquivo "mananciaisfiltrado.csv", execute as outras partes do código para a geração dos gráficos e tabelas atualizados.
 
 ## Imagens:
-### Resumo Estatisco (Sem Quartis):
+### Resumo Estatístico (Sem Quartis):
 ![tabela1](https://github.com/gabs4841/Mananciais-Graficos/assets/74026100/a72df27d-ea0f-4fe0-918c-6f1693cdb156)
 ![tabela2](https://github.com/gabs4841/Mananciais-Graficos/assets/74026100/09ecf13b-c874-484f-9ff1-06da82a4ac28)
 
