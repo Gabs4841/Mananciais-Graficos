@@ -8,19 +8,19 @@ O programa possui duas partes principais: preparação do conjunto de dados e a 
 Após a criação do arquivo "mananciaisfiltrado.csv", execute as outras partes do código para a geração dos gráficos e tabelas atualizados.
 
 ## Imagens:
-### Gráfico Linhas:
+#### Gráfico Linhas:
 ![Linhas](https://github.com/gabs4841/Mananciais-Graficos/assets/74026100/16ded7ef-e55f-4c1f-b054-73d952250e13)
 
-### Gráfico Barras:
+#### Gráfico Barras:
 ![Barras](https://github.com/gabs4841/Mananciais-Graficos/assets/74026100/250a34cd-3024-45d4-8ec5-d722631294d6)
 
-### Gráfico Boxspot:
+#### Gráfico Boxspot:
 ![Boxplot](https://github.com/gabs4841/Mananciais-Graficos/assets/74026100/15aa6e7a-5f32-48a1-b811-f9fc2a34dce5)
 
-### Gráfico Dispersão:
+#### Gráfico Dispersão:
 ![Dispersão](https://github.com/gabs4841/Mananciais-Graficos/assets/74026100/a05912c8-7ad2-4a69-ab30-bef42bdf920a)
 
-### Gráfico Histograma:
+#### Gráfico Histograma:
 ![Histograma](https://github.com/gabs4841/Mananciais-Graficos/assets/74026100/2c51b874-fb4e-47b0-9c3d-d53a003d151d)
 
 ### Tabela 1
