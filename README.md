@@ -2,12 +2,12 @@
 
 O programa Mananciais - Gráficos prepara a base de dados e gera gráficos e tabelas relevantes para visualização e análise de informações sobre mananciais de abastecimento público na Região Metropolitana de São Paulo, buscando obter insights visuais e analíticos.
 
-# Utilização
+## Utilização
 O programa possui duas partes principais: preparação do conjunto de dados e a geração de gráficos e tabelas. Para usar o programa, primeiro, faça o download do arquivo .ipynb. Em seguida, execute a primeira parte do código em um compilador que foi "Executado como Administrador" (caso contrario ele não conseguirá baixar os arquivos) e selecione o servidor "Brazil (SP 2)" para que a base atualizada seja baixada e modificada para manter apenas dados de 01/01/2013 em diante.
 
 Após a criação do arquivo "mananciaisfiltrado.csv", execute as outras partes do código para a geração dos gráficos e tabelas atualizados.
 
-# Imagens:
+## Imagens:
 ### Gráfico Linhas:
 ![Linhas](https://github.com/gabs4841/Mananciais-Graficos/assets/74026100/16ded7ef-e55f-4c1f-b054-73d952250e13)
 
@@ -29,7 +29,7 @@ Após a criação do arquivo "mananciaisfiltrado.csv", execute as outras partes 
 ### Tabela 2
 ![tabela2](https://github.com/gabs4841/Mananciais-Graficos/assets/74026100/09ecf13b-c874-484f-9ff1-06da82a4ac28)
 
-# Créditos:
+## Créditos:
 
 Este trabalho utiliza o conjunto de dados do Pacote Mananciais, disponibilizado por:
 
