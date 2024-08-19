@@ -11,7 +11,7 @@ Após a criação do arquivo "mananciaisfiltrado.csv", execute as outras partes 
 ### Resumo Estatístico (Sem Quartis):
 
 <p float="left">
-  <img src="https://github.com/gabs4841/Mananciais-Graficos/assets/74026100/a72df27d-ea0f-4fe0-918c-6f1693cdb156" alt="tabela1" width="48.6%" />
+  <img src="https://github.com/gabs4841/Mananciais-Graficos/assets/74026100/a72df27d-ea0f-4fe0-918c-6f1693cdb156" alt="tabela1" width="48.7%" />
   <img src="https://github.com/gabs4841/Mananciais-Graficos/assets/74026100/09ecf13b-c874-484f-9ff1-06da82a4ac28" alt="tabela2" width="45%" />
 </p>
 
